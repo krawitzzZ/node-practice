@@ -1,0 +1,180 @@
+with writeFile:
+Ackbar
+Adi Gallia
+Anakin Skywalker
+Arvel Crynyd
+Ayla Secura
+BB8
+Bail Prestor Organa
+Barriss Offee
+Ben Quadinaros
+Beru Whitesun lars
+Bib Fortuna
+Biggs Darklighter
+Boba Fett
+Bossk
+C-3PO
+Captain Phasma
+Chewbacca
+Cliegg Lars
+Cordé
+Darth Maul
+Darth Vader
+Dexter Jettster
+Dooku
+Dormé
+Dud Bolt
+Eeth Koth
+Finis Valorum
+Finn
+Gasgano
+Greedo
+Gregar Typho
+Grievous
+Han Solo
+IG-88
+Jabba Desilijic Tiure
+Jango Fett
+Jar Jar Binks
+Jek Tono Porkins
+Jocasta Nu
+Ki-Adi-Mundi
+Kit Fisto
+Lama Su
+Lando Calrissian
+Leia Organa
+Lobot
+Luke Skywalker
+Luminara Unduli
+Mace Windu
+Mas Amedda
+Mon Mothma
+Nien Nunb
+Nute Gunray
+Obi-Wan Kenobi
+Owen Lars
+Padmé Amidala
+Palpatine
+Plo Koon
+Poe Dameron
+Poggle the Lesser
+Quarsh Panaka
+Qui-Gon Jinn
+R2-D2
+R4-P17
+R5-D4
+Ratts Tyerell
+Raymus Antilles
+Rey
+Ric Olié
+Roos Tarpals
+Rugor Nass
+Saesee Tiin
+San Hill
+Sebulba
+Shaak Ti
+Shmi Skywalker
+Sly Moore
+Tarfful
+Taun We
+Tion Medon
+Wat Tambor
+Watto
+Wedge Antilles
+Wicket Systri Warrick
+Wilhuff Tarkin
+Yarael Poof
+Yoda
+Zam Wesell
+
+with write to position:
+Zam Wesell
+Yoda
+Yarael Poof
+Wilhuff Tarkin
+Wicket Systri Warrick
+Wedge Antilles
+Watto
+Wat Tambor
+Tion Medon
+Taun We
+Tarfful
+Sly Moore
+Shmi Skywalker
+Shaak Ti
+Sebulba
+San Hill
+Saesee Tiin
+Rugor Nass
+Roos Tarpals
+Ric Olié
+Rey
+Raymus Antilles
+Ratts Tyerell
+R5-D4
+R4-P17
+R2-D2
+Qui-Gon Jinn
+Quarsh Panaka
+Poggle the Lesser
+Poe Dameron
+Plo Koon
+Palpatine
+Padmé Amidala
+Owen Lars
+Obi-Wan Kenobi
+Nute Gunray
+Nien Nunb
+Mon Mothma
+Mas Amedda
+Mace Windu
+Luminara Unduli
+Luke Skywalker
+Lobot
+Leia Organa
+Lando Calrissian
+Lama Su
+Kit Fisto
+Ki-Adi-Mundi
+Jocasta Nu
+Jek Tono Porkins
+Jar Jar Binks
+Jango Fett
+Jabba Desilijic Tiure
+IG-88
+Han Solo
+Grievous
+Gregar Typho
+Greedo
+Gasgano
+Finn
+Finis Valorum
+Eeth Koth
+Dud Bolt
+Dormé
+Dooku
+Dexter Jettster
+Darth Vader
+Darth Maul
+Cordé
+Cliegg Lars
+Chewbacca
+Captain Phasma
+C-3PO
+Bossk
+Boba Fett
+Biggs Darklighter
+Bib Fortuna
+Beru Whitesun lars
+Ben Quadinaros
+Barriss Offee
+Bail Prestor Organa
+BB8
+Ayla Secura
+Arvel Crynyd
+Anakin Skywalker
+Adi Gallia
+Ackbar
+
+with writeStream:
+hash is aef35ghhjdk74hja83ksnfjk888sfsf
